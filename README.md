@@ -225,7 +225,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 1. You created and merged a Markdown file.
 1. You learned an essential GitHub skill. 🎉
 
-### What's next?
+### What's next??
 
 - You can enable GitHub Pages and see your Markdown file as a website!
   1. Under your repository name at the upper right, click :gear: **Settings**.
