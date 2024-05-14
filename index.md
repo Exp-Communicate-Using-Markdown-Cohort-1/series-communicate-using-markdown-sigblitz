@@ -11,3 +11,11 @@
 def ListeningTO(song):
     if song in list:
        print("You are listening to{}.format(song))
+```
+
+### Making a task list
+- [x] writing your first headers with markdinw
+- [x] adding your first image to the file
+- [x] using block codes to display a code snippet
+- [x] making a task list for the first time
+- [ ] merge your pull request
